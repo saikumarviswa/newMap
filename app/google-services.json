@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "272291564869",
+    "firebase_url": "https://newmaps-5582e.firebaseio.com",
+    "project_id": "newmaps-5582e",
+    "storage_bucket": "newmaps-5582e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272291564869:android:5b9f0e60cd6466c5d3422c",
+        "android_client_info": {
+          "package_name": "com.sai.newmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272291564869-lfd93j7auo43od5eulvp6mgbjik6d9al.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sai.newmap",
+            "certificate_hash": "4bebf4e46497c34c5638be4665f37e981cf2396f"
+          }
+        },
+        {
+          "client_id": "272291564869-m847e8es8ibr26a0i56gj06stfgk0ckd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADqXWciOZsrOsk3Kd4SYdixFuS-ViLCUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272291564869-m847e8es8ibr26a0i56gj06stfgk0ckd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
